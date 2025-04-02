@@ -1,1 +1,1 @@
-{"name":"Hexo","short_name":null,"start_url":"/GreenMeeple/SharkDeer/index.html","theme_color":null,"background_color":null,"display":"standalone","icons":[{"src":"","sizes":"","type":null}]}
+{"name":"SharkDeer","short_name":"SharkDeer","start_url":"/","theme_color":"#3273dc","background_color":"#3273dc","display":"standalone","icons":[{"src":"/img/sharkdeer_full.png","sizes":"72x72 96x96 128x128 256x256","type":"image/png"}]}
