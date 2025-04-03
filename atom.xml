@@ -3,11 +3,11 @@
   <title>SharkDeer</title>
   
   <subtitle>Cantonese, Life, Travel</subtitle>
-  <link href="https://greenmeeple.github.io/atom.xml" rel="self"/>
+  <link href="https://greenmeeple.github.io/SharkDeer/atom.xml" rel="self"/>
   
-  <link href="https://greenmeeple.github.io/"/>
-  <updated>2025-04-03T03:20:52.432Z</updated>
-  <id>https://greenmeeple.github.io/</id>
+  <link href="https://greenmeeple.github.io/SharkDeer/"/>
+  <updated>2025-04-03T05:35:31.699Z</updated>
+  <id>https://greenmeeple.github.io/SharkDeer/</id>
   
   <author>
     <name>SharkDeer</name>
@@ -18,29 +18,28 @@
   
   <entry>
     <title>SharkDeer -- 上山入海，卻無處容身。</title>
-    <link href="https://greenmeeple.github.io/about/"/>
-    <id>https://greenmeeple.github.io/about/</id>
+    <link href="https://greenmeeple.github.io/SharkDeer/about/"/>
+    <id>https://greenmeeple.github.io/SharkDeer/about/</id>
     <published>2025-04-02T21:59:21.000Z</published>
-    <updated>2025-04-03T03:20:52.432Z</updated>
+    <updated>2025-04-03T05:35:31.699Z</updated>
+    
+    <content type="html"><![CDATA[<p>人們口中的鯊鹿兒，是入水能游，出水能跳的怪物。敏捷、精準、令人措手不及。</p><p>實際上，牠只是一隻在海裏拼死拼活，上了岸慌忙逃竄的小妖。</p><p>人生就像鯊魚，只能一直游啊游，不然就會死掉；</p><p>在森林中的我們，總以為對方是獵人，卻只是把自己活活嚇死的小鹿。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;人們口中的鯊鹿兒，是入水能游，出水能跳的怪物。敏捷、精準、令人措手不及。&lt;/p&gt;
+&lt;p&gt;實際上，牠只是一隻在海裏拼死拼活，上了岸慌忙逃竄的小妖。&lt;/p&gt;
+&lt;p&gt;人生就像鯊魚，只能一直游啊游，不然就會死掉；&lt;/p&gt;
+&lt;p&gt;在森林中的我們，總以為對方是獵人，卻只是把自己活活嚇死</summary>
+      
     
     
     
+    <category term="本站" scheme="https://greenmeeple.github.io/SharkDeer/categories/%E6%9C%AC%E7%AB%99/"/>
     
     
-    <category term="本站" scheme="https://greenmeeple.github.io/tags/%E6%9C%AC%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>早晨</title>
-    <link href="https://greenmeeple.github.io/morning/"/>
-    <id>https://greenmeeple.github.io/morning/</id>
-    <published>2025-04-02T21:59:21.000Z</published>
-    <updated>2025-04-02T22:23:19.263Z</updated>
-    
-    
-    
-    
+    <category term="不明" scheme="https://greenmeeple.github.io/SharkDeer/tags/%E4%B8%8D%E6%98%8E/"/>
     
   </entry>
   
