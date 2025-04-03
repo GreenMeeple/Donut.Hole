@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SharkDeer</title>
-  
+  <icon>https://greenmeeple.github.io/img/sharkdeer_full.png</icon>
   <subtitle>Cantonese, Life, Travel</subtitle>
   <link href="https://greenmeeple.github.io/atom.xml" rel="self"/>
   
@@ -23,16 +23,12 @@
     <published>2025-04-02T21:59:21.000Z</published>
     <updated>2025-04-03T05:36:16.169Z</updated>
     
-    <content type="html"><![CDATA[<p>人們口中的鯊鹿兒，是入水能游，出水能跳的怪物。敏捷、精準、令人措手不及。</p><p>實際上，牠只是一隻在海裏拼死拼活，上了岸慌忙逃竄的小妖。</p><p>人生就像鯊魚，只能一直游啊游，不然就會死掉；</p><p>在森林中的我們，總以為對方是獵人，卻只是把自己活活嚇死的小鹿。</p>]]></content>
     
-    
-      
-      
     <summary type="html">&lt;p&gt;人們口中的鯊鹿兒，是入水能游，出水能跳的怪物。敏捷、精準、令人措手不及。&lt;/p&gt;
 &lt;p&gt;實際上，牠只是一隻在海裏拼死拼活，上了岸慌忙逃竄的小妖。&lt;/p&gt;
 &lt;p&gt;人生就像鯊魚，只能一直游啊游，不然就會死掉；&lt;/p&gt;
-&lt;p&gt;在森林中的我們，總以為對方是獵人，卻只是把自己活活嚇死</summary>
-      
+&lt;p&gt;在森林中的我們，總以為對方是獵人，卻只是把自己活活嚇死的小鹿。&lt;/p&gt;
+</summary>
     
     
     
