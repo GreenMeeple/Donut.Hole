@@ -11466,18 +11466,18 @@ figure.highlight.foldable div.level-left {
   box-shadow: 0 0 0 0.125em rgba(0,160,232,0.25);
 }
 .donate[data-type="buymeacoffee"] {
-  color: rgba(0,0,0,0.7);
-  background-color: #fd0;
+  color: #fff;
+  background-color: #6f4e37;
   border-color: transparent;
 }
 .donate[data-type="buymeacoffee"]:active {
-  background-color: #e6c700;
+  background-color: #5e422f;
 }
 .donate[data-type="buymeacoffee"]:hover {
-  background-color: #f2d200;
+  background-color: #664833;
 }
 .donate[data-type="buymeacoffee"]:focus:not(:active) {
-  box-shadow: 0 0 0 0.125em rgba(255,221,0,0.25);
+  box-shadow: 0 0 0 0.125em rgba(111,78,55,0.25);
 }
 .donate[data-type="paypal"] {
   color: rgba(0,0,0,0.7);
